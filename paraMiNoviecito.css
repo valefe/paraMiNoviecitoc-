@@ -1,0 +1,210 @@
+body{
+    background-image: url(https://www.soycarmin.com/__export/1455477920935/sites/debate/img/celebs/2016/02/14/corazon-con-manos-1481.jpg_242310155.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+button:hover {
+    cursor: pointer;
+}
+h1 {
+    color: azure;
+}
+p{
+    color: #FFF;
+}
+h4{
+    color: white;
+}
+#DiQueSi{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#DiQueSi2{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#felidia{
+    font-size: 30px;
+
+}
+
+#btn_si{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: burlywood; 
+    color: white; 
+    border: 2px solid white;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#btn_si:hover{
+    transform: scale(1.1);
+    border-radius: 14px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: white;
+    background-color: black;
+}
+
+#btn_si2{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #800040; 
+    color: white; 
+    border: 2px solid rgb(255, 255, 255);
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#btn_si2:hover{
+    transform: scale(1.1);
+    border-radius: 14px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: #000;
+    background-color: #FFF;
+}
+
+#btn_no{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #ff7514; 
+    color: black; 
+    border: 2px solid blue;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#btn_no2{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: powderblue; 
+    color: black; 
+    border: 2px solid #800040;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#gif{
+      max-width: 30%;
+      max-height: 10%;
+}
+
+#gif img{
+    width: 100%;
+    height: 100%;
+}
+
+#gif2{
+    max-width: 30%;
+    max-height: 10%;
+}
+
+#gif2 img{
+  width: 100%;
+  height: 100%;
+}
+
+.Contenedor-imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Contenedor-imagen2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.Contenedor{
+    display: none;
+}
+
+.Contenedor2{
+    display: none;
+}
+
+.Button{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: greenyellow; 
+    color: black; 
+    border: 2px solid green;
+    cursor: pointer;
+    margin-top: 10px;
+}
+  
+.Button:hover{
+    transform: scale(1.1);
+    border-radius: 14px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: black;
+    background-color: white;
+}
+#BotonNovia{
+    font-family: monospace;
+    font-size: x-large;
+    transition-duration: 0.2s;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: pink; 
+    color: black; 
+    border: 2px solid purple;
+    cursor: pointer;
+    margin-top: 10px;
+    display: none;
+}
+#BotonNovia:hover{
+    transform: scale(1.1);
+    border-radius: 14px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: black;
+    background-color: white;
+}
+#Intro{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+.contenedor-boton{
+    text-align: center;
+}
+.Contenedor-Perro{
+    margin-top: -2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
